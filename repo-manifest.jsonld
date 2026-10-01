@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/francis/commit/cc54b4d974058fdc1faf9971a5011a88b80845b2",
       "git:hexsha": "cc54b4d974058fdc1faf9971a5011a88b80845b2",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     },
     {
